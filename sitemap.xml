@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.emilywozniak.com/</loc></url>
-  <url><loc>https://www.emilywozniak.com/about-me/</loc></url>
-  <url><loc>https://www.emilywozniak.com/contact/</loc></url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://www.emilywozniak.com/</loc>
+  <lastmod>2025-06-22T00:32:54+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.emilywozniak.com/lens-reviews/</loc>
+  <lastmod>2025-06-22T00:32:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.emilywozniak.com/tech-reviews/</loc>
+  <lastmod>2025-06-22T00:32:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.emilywozniak.com/about-me/</loc>
+  <lastmod>2025-06-22T00:32:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.emilywozniak.com/contact/</loc>
+  <lastmod>2025-06-22T00:32:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.emilywozniak.com/links/</loc>
+  <lastmod>2025-06-22T00:32:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.emilywozniak.com/Interstellar-Review/</loc>
+  <lastmod>2025-06-22T00:32:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.emilywozniak.com/tech-reviews/Cobra-RAD-700I-Review/</loc>
+  <lastmod>2025-06-22T00:32:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 </urlset>
