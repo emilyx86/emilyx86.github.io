@@ -1,3 +1,4 @@
+/*
 fetch("https://ipapi.co/json/")
   .then(response => response.json())
   .then(data => {
@@ -6,3 +7,5 @@ fetch("https://ipapi.co/json/")
       window.location.href = "https://google.com";
     }
   });
+-->);
+*/
